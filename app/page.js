@@ -5,7 +5,7 @@ export default function Home() {
     <main >
    
     
-<h1 className='bg-brown-600 '>hello world</h1>
+<h1 className='bg-brown-600 font-MorabbaBold'>سلام تست فونت</h1>
      
     </main>
   )
