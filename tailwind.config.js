@@ -16,6 +16,16 @@ module.exports = {
           900: "#634832",
         },
       },
+      fontFamily:{
+        "Vazir":"Vazir",
+        "Dana":"Dana",
+        "DanaMedium":"Dana Medium",
+        "DanaDemiBold":"Dana DemiBold",
+        "MorabbaLight":"Morabba Light",
+        "MorabbaBold":"Morabba Bold",
+        "MorabbaMedium":"Morabba Medium",
+        "IranSans":"IranSans",
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
