@@ -604,6 +604,10 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.transform {
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
 .bg-brown-600 {
   --tw-bg-opacity: 1;
   background-color: rgb(150 114 89 / var(--tw-bg-opacity));
