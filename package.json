@@ -1,7 +1,7 @@
 {
   "name": "nextgit",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "concurrently \"next dev\" \"npx tailwindcss -i ./src/styles/input.css -o ./src/styles/app.css --watch\"",
     "build": "next build",
